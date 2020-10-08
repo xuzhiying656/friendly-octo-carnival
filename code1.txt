@@ -1,4 +1,5 @@
 public static void main(String[] args){
 	Sustem.out.println("你好");
 	Sustem.out.println("我很好");
+	Sustem.out.println("那就好");
 }
